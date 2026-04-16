@@ -1,2 +1,13 @@
-# mini-snake-game-box-57
-A simple snake game project
+# Snake Game
+
+Classic snake game in Python using curses.
+
+Taylor's project
+
+## Run
+
+```
+python snake.py
+```
+
+Use arrow keys to move. Press 'q' to quit.
